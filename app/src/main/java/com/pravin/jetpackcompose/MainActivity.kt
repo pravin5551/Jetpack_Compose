@@ -70,6 +70,7 @@ class MainActivity : ComponentActivity() {
 
                         TextField(value = value, onValueChange ={newValue -> value = newValue})
                         Text(text = value)
+
                     }
 
                 }
