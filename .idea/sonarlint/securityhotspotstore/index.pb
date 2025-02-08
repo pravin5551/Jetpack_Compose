@@ -54,3 +54,5 @@ P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 S
 #app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+j
+:app/src/main/java/com/pravin/jetpackcompose/NavActivity.kt,5\f\5fb81fb8666f7d57606cdcca04fb35bfe5f9ccc9
